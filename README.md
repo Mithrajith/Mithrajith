@@ -70,19 +70,19 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mithrajithdev-ai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mithrajith&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithrajithdev-ai&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithrajith&theme=radical&hide_border=true" height="180px"/>
 </p>
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithrajithdev-ai&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithrajith&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 <!-- Detailed Profile Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithrajithdev-ai&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithrajith&theme=radical" />
 </p>
 
 ---
@@ -91,12 +91,12 @@
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrajithdev-ai&theme=rogue&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrajith&theme=rogue&hide_border=true&area=true" />
 </p>
 
 <!-- Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mithrajithdev-ai/mithrajithdev-ai/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mithrajith/mithrajith/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -104,7 +104,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithrajithdev-ai&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mithrajith&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
 </p>
 
 ---
@@ -146,11 +146,11 @@ class mithrajithsDev:
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/mithrajithdev-ai/coconut-oil-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajithdev-ai&repo=coconut-oil-detector&theme=radical&hide_border=true" />
+  <a href="https://github.com/mithrajith/coconut-oil-detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=coconut-oil-detector&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/mithrajithdev-ai/budget-bites">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajithdev-ai&repo=budget-bites&theme=radical&hide_border=true" />
+  <a href="https://github.com/mithrajith/budget-bites">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=budget-bites&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -205,7 +205,7 @@ class mithrajithsDev:
   <br>
   <i>✨ "Building the future, one algorithm at a time" ✨</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=mithrajithdev-ai&color=00C9A7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mithrajith&color=00C9A7&style=for-the-badge" />
 </p>
 
 ---
