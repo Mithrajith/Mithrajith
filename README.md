@@ -145,7 +145,20 @@ class mithrajithsDev:
 
 ## 🌟 Featured Projects
 
-<p align="center"> <a href="https://github.com/mithrajith/Neo-budget-manager"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=Neo-budget-manager&theme=radical&hide_border=true" /> </a> <a href="https://github.com/mithrajith/sample.neo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=sample.neo&theme=radical&hide_border=true" /> </a> <a href="https://github.com/mithrajith/slap"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=slap&theme=radical&hide_border=true" /> </a> <a href="https://github.com/mithrajith/image_captioning"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=image_captioning&theme=radical&hide_border=true" /> </a> <a href="https://github.com/mithrajith/campus-compass"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=campus-compass&theme=radical&hide_border=true" /> </a> <a href="https://github.com/mithrajith/Mithrajith"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=Mithrajith&theme=radical&hide_border=true" /> </a> </p>
+<p align="center"> 
+  <a href="https://github.com/mithrajith/Neo-budget-manager"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=Neo-budget-manager&theme=radical&hide_border=true" /> </a> 
+  <a href="https://github.com/mithrajith/smart-mood-music-player"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=smart-mood-music-player&theme=radical&hide_border=true" /> </a>
+  <a href="https://github.com/mithrajith/slap"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=slap&theme=radical&hide_border=true" /> </a>
+  <a href="https://github.com/mithrajith/image_captioning"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=image_captioning&theme=radical&hide_border=true" /> </a> 
+  <a href="https://github.com/mithrajith/campus-compass"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=campus-compass&theme=radical&hide_border=true" /> </a> 
+  <a href="https://github.com/mithrajith/Facial-recognition-code"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=Facial-recognition-code&theme=radical&hide_border=true" /> </a> 
+</p>
 ---
 
 ## ✍️ Inspirational Quote
