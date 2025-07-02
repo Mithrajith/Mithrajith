@@ -1,6 +1,6 @@
 # <!-- Top wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20there!%20I'm%20mithrajith%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20there!%20I'm%20Mithrajith%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
  
 <!-- Typing text -->
@@ -172,19 +172,19 @@ class mithrajithsDev:
 ## 📫 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="mailto:mithrajith.dev.ai@gmail.com">
+  <a href="mithrajith46@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mithrajithdev">
+  <a href="https://linkedin.com/in/mithrajithks046">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mithrajithai.netlify.app">
+  <a href="https://melodious-cuchufli-1275f6.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/mithrajithdev">
+  <a href="[https://kaggle.com/mithrajithdev](https://www.kaggle.com/mithun46)">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mithrajithdev_ai">
+  <a href="[https://twitter.com/mithrajithdev_ai](https://x.com/Mithrajith01)">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
