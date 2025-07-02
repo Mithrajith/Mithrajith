@@ -146,10 +146,10 @@ class mithrajithsDev:
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/mithrajith/coconut-oil-detector">
+  <a href="https://github.com/Mithrajith/smart-mood-music-player">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=coconut-oil-detector&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/mithrajith/budget-bites">
+  <a href="https://github.com/Mithrajith/slap">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=budget-bites&theme=radical&hide_border=true" />
   </a>
 </p>
