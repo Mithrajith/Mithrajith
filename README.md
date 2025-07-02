@@ -1,240 +1,221 @@
-# <!-- Animated Header with Gradient Wave -->
+# <!-- Top wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=280&section=header&text=Mithrajith%20👨‍💻&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20there!%20I'm%20mithrajith%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
-
-<!-- Professional Typing Animation -->
+ 
+<!-- Typing text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+Full-Stack+Engineer;🤖+Machine+Learning+Expert;🎨+Frontend+Architect;🐍+Python+%26+AI+Developer;💡+Innovation+%26+Problem+Solver;📊+Data+Science+Enthusiast;⚡+Building+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=500&lines=Full-stack+Engineer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A4%96%F0%9F%A7%A0;Frontend+Wizard+%F0%9F%8E%A8;Python+%26+AI+Developer+%F0%9F%90%8D;Building+Intelligent+Apps+%F0%9F%92%A1;Data+Science+Explorer+%F0%9F%93%8A" />
 </p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
-## 🎯 Professional Overview
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
-
-- 🔥 **Senior Full-Stack Developer** crafting scalable, intelligent applications
-- 🤖 **ML/AI Engineer** specializing in computer vision and NLP solutions  
-- 🏗️ **System Architect** designing robust, cloud-native architectures
-- 📊 **Data Scientist** transforming complex data into actionable insights
-- 🎨 **UI/UX Engineer** creating intuitive, responsive user experiences
-- 💡 **Tech Innovator** exploring cutting-edge technologies and methodologies
-
-<br clear="right"/>
 
 ---
 
-## 🛠️ Technology Stack & Expertise
+## 🎯 About Me
 
-### 🎨 Frontend Excellence
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,html,css,tailwind,bootstrap,figma,sass&theme=dark" />
+- 🔥 **Passionate Full-Stack Developer** building interactive, responsive, and intelligent applications
+- 🤖 **Machine Learning Enthusiast** exploring AI/ML to create smarter solutions
+- 🧠 **Data Science Explorer** turning data into actionable insights
+- 💡 **Innovation Driven** - Always learning cutting-edge technologies
+- 💬 Ask me about `React`, `Python`, `Machine Learning`, `AI`, `TensorFlow`, `MongoDB`, or `Data Science`
+- 🧠 My motto: **"UI like Apple 🍎, Logic like Tesla ⚡, Intelligence like AI 🤖"**
+
+---
+
+## 🛠️ My Animated Tech Arsenal
+
+### 🎨 Frontend & UI
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🔧 Backend & Infrastructure  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,django,flask,fastapi,express,postgresql,mongodb,redis,docker,kubernetes,aws&theme=dark" />
+### 🐍 Backend & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 🤖 AI/ML & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,r,julia,matlab,elasticsearch,grafana,prometheus&theme=dark" />
-</p>
-
-### ⚡ Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,bash,nginx,jenkins,terraform&theme=dark" />
-</p>
-
-<!-- Animated Tech Stack Visualization -->
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack+Proficiency&titleColor=00D9FF&lineCount=3&theme=radical&bg=0d1117&badge=0d1117&border=30363d&titleSize=20&iconSize=50&width=900&fontSize=16&line1=React%2CNext.js%2CTypeScript%2CTailwind%2CFigma&line2=Python%2CDjango%2CPostgreSQL%2CDocker%2CAWS&line3=TensorFlow%2COpenCV%2CPandas%2CKubernetes%2CJenkins" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<!-- Professional Animated Separator -->
+### 🛠️ Tools & DevOps
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
-
-## 📊 Professional Analytics Dashboard
 
 <p align="center">
-  <!-- Enhanced GitHub Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mithrajith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=25&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" height="195px"/>
-  
-  <!-- Advanced Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=mithrajith&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff&background=0d1117" height="195px"/>
-</p>
-
-<!-- Language Statistics with Animation -->
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mithrajith&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=00D9FF&text_color=ffffff&bg_color=0d1117&card_width=500" />
-</p>
-
-<!-- Comprehensive Profile Summary -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithrajith&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" height="300" />
 </p>
 
 ---
 
-## 📈 Advanced Development Metrics
+## 📊 GitHub Analytics Dashboard
 
-<!-- 3D Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrajith&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mithrajith&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithrajith&theme=radical&hide_border=true" height="180px"/>
 </p>
 
-<!-- Animated Contribution Snake -->
+<!-- Most Used Languages -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithrajith/mithrajith/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithrajith/mithrajith/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mithrajith/mithrajith/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithrajith&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+<!-- Detailed Profile Summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithrajith&theme=radical" />
 </p>
 
 ---
 
-## 🏆 Professional Achievements
+## 📈 Contribution Visualization
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithrajith&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4&row=2&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrajith&theme=rogue&hide_border=true&area=true" />
 </p>
 
-<!-- Animated Separator -->
+<!-- Contribution Snake -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://raw.githubusercontent.com/mithrajith/mithrajith/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 🎯 Current Professional Focus
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mithrajith&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
+</p>
+
+---
+
+## 🎯 Current Focus Areas
 
 ```python
-class ProfessionalMithrajith:
+class mithrajithsDev:
     def __init__(self):
-        self.role = "Senior Full-Stack Developer & ML Engineer"
-        self.location = "Coimbatore, Tamil Nadu, India"
-        self.current_focus = {
-            "backend": ["Python", "Django", "FastAPI", "Microservices"],
-            "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Computer Vision", "NLP"],
-            "data_science": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
-            "devops": ["Docker", "Kubernetes", "AWS", "CI/CD"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
-        }
-        
-    def current_projects(self):
-        return [
-            "🤖 Advanced Computer Vision Applications",
-            "📊 Real-time Data Analytics Platforms", 
-            "🏗️ Scalable Microservices Architecture",
-            "🎨 Next-gen Frontend Frameworks",
-            "💰 Intelligent Financial Solutions"
+        self.current_focus = [
+            "🤖 Machine Learning & AI Development",
+            "📊 Data Science & Analytics", 
+            "🎨 Modern Frontend Architectures",
+            "🔬 Computer Vision Projects",
+            "💰 Fintech & Budgeting Solutions"
         ]
         
-    def daily_workflow(self):
+    def daily_routine(self):
         return [
-            "☕ Coffee-driven Development",
-            "🔬 Research & Algorithm Design", 
-            "🛠️ Clean Code Implementation",
-            "📈 Performance Optimization",
-            "🧪 Testing & Quality Assurance",
-            "📚 Continuous Learning"
+            "☕ Coffee + Code",
+            "📚 Learning ML Algorithms", 
+            "🛠️ Building Cool Projects",
+            "📈 Analyzing Data Patterns",
+            "🎨 Crafting Beautiful UIs"
         ]
         
-    def expertise_areas(self):
+    def ask_me_about(self):
         return {
-            'architecture': ['Microservices', 'Event-Driven', 'Serverless'],
-            'ai_ml': ['Deep Learning', 'Computer Vision', 'NLP'],
-            'frontend': ['React Ecosystem', 'Modern CSS', 'Performance'],
-            'backend': ['API Design', 'Database Optimization', 'Security'],
-            'devops': ['Container Orchestration', 'Cloud Native', 'Monitoring']
+            'frontend': ['React', 'JavaScript', 'Tailwind CSS'],
+            'backend': ['Python', 'Flask', 'FastAPI'],
+            'ml_ai': ['TensorFlow', 'Scikit-learn', 'OpenCV'],
+            'data': ['Pandas', 'NumPy', 'Data Visualization'],
+            'projects': ['Face Recognition', 'Budgeting Apps', 'ML Models']
         }
 ```
 
 ---
 
-## 🌟 Featured Professional Projects
+## 🌟 Featured Projects
+
+<p align="center"> 
+  <a href="https://github.com/mithrajith/Neo-budget-manager"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=Neo-budget-manager&theme=radical&hide_border=true" /> </a> 
+   <a href="[https://github.com/Mithrajith/AI_music_player"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=AI_music_player&theme=radical&hide_border=true" /> </a>
+  <a href="https://github.com/mithrajith/slap"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=slap&theme=radical&hide_border=true" /> </a>
+  <a href="https://github.com/mithrajith/image_captioning"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=image_captioning&theme=radical&hide_border=true" /> </a> 
+  <a href="https://github.com/mithrajith/campus-compass"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=campus-compass&theme=radical&hide_border=true" /> </a> 
+  <a href="https://github.com/mithrajith/Facial-recognition-code"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=Facial-recognition-code&theme=radical&hide_border=true" /> </a> 
+</p>
+
+
+## ✍️ Inspirational Quote
 
 <p align="center">
-  <a href="https://github.com/mithrajith/Neo-budget-manager">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mithrajith&repo=Neo-budget-manager&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/mithrajith/AI_music_player">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mithrajith&repo=AI_music_player&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/mithrajith/slap">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mithrajith&repo=slap&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/mithrajith/image_captioning">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mithrajith&repo=image_captioning&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/mithrajith/campus-compass">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mithrajith&repo=campus-compass&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/mithrajith/Facial-recognition-code">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mithrajith&repo=Facial-recognition-code&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 📚 Professional Development & Learning
-
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=JetBrains%20Mono" />
-</p>
-
-<!-- Learning Progress Visualization -->
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=mithrajith&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117&layout=compact" />
-</p>
-
----
-
-## 🤝 Professional Network & Collaboration
+## 📫 Let's Connect & Collaborate
 
 <p align="center">
   <a href="mailto:mithrajith.dev.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/mithrajithdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mithrajithai.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FF5722" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="https://kaggle.com/mithrajithdev">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://twitter.com/mithrajithdev_ai">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💡 Professional Philosophy
+## 💭 Fun Facts About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=💻+Code+with+Purpose%2C+Build+with+Passion;🚀+Innovation+Through+Clean+Architecture;🤖+AI-Powered+Solutions+for+Real+Problems;📊+Data-Driven+Decisions%2C+User-Centric+Design;⚡+Performance%2C+Scalability%2C+Excellence" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+- 🧠 I dream in Python and think in algorithms
+- 📊 I can turn coffee into code and data into insights
+- 🎯 My code is like my coffee: strong, well-structured, and energizing
+- 🤖 I believe AI will make the world a better place
+- 🎨 I code with the precision of a surgeon and creativity of an artist
+
+---
+
+<p align="center">  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <br>
+  <i>✨ "Building the future, one algorithm at a time" ✨</i>
   <br><br>
-  <i>✨ "Transforming Ideas into Intelligent Solutions" ✨</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=mithrajith&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=mithrajith&color=00C9A7&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- Professional Footer -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </p>
