@@ -1,4 +1,4 @@
-# <!-- Top wave -->
+<!-- Top wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20there!%20I'm%20Mithun%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
@@ -12,11 +12,11 @@
 
 ## 🎯 About Me
 
-- 🔥 **Passionate Full-Stack Developer** building interactive, responsive, and intelligent applications
-- 🤖 **Machine Learning Enthusiast** exploring AI/ML to create smarter solutions
-- 🧠 **Data Science Explorer** turning data into actionable insights
-- 💡 **Innovation Driven** - Always learning cutting-edge technologies
-- 💬 Ask me about `React`, `Python`, `Machine Learning`, `AI`, `TensorFlow`, `MongoDB`, or `Data Science`
+- 🔥 **Passionate Full-Stack Developer** building interactive, responsive, and intelligent applications  
+- 🤖 **Machine Learning Enthusiast** exploring AI/ML to create smarter solutions  
+- 🧠 **Data Science Explorer** turning data into actionable insights  
+- 💡 **Innovation Driven** - Always learning cutting-edge technologies  
+- 💬 Ask me about `React`, `Python`, `Machine Learning`, `AI`, `TensorFlow`, `MongoDB`, or `Data Science`  
 - 🧠 My motto: **"UI like Apple 🍎, Logic like Tesla ⚡, Intelligence like AI 🤖"**
 
 ---
@@ -69,34 +69,28 @@
 ## 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mithundev-ai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithundev-ai&theme=radical&hide_border=true" height="180px"/>
 </p>
 
-<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithundev-ai&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
-<!-- Detailed Profile Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithundev-ai&theme=radical" />
 </p>
 
 ---
 
 ## 📈 Contribution Visualization
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=rogue&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithundev-ai&theme=rogue&hide_border=true&area=true" />
 </p>
 
-<!-- Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mithundev-ai/mithundev-ai/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -104,7 +98,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mithundev-ai&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
 </p>
 
 ---
@@ -139,79 +133,23 @@ class MithunsDev:
             'data': ['Pandas', 'NumPy', 'Data Visualization'],
             'projects': ['Face Recognition', 'Budgeting Apps', 'ML Models']
         }
-```
+🌟 Featured Projects
+<p align="center"> <a href="https://github.com/mithundev-ai/coconut-oil-detector"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithundev-ai&repo=coconut-oil-detector&theme=radical&hide_border=true" /> </a> <a href="https://github.com/mithundev-ai/budget-bites"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithundev-ai&repo=budget-bites&theme=radical&hide_border=true" /> </a> </p>
+✍️ Inspirational Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
+📫 Let's Connect & Collaborate
+<p align="center"> <a href="mailto:mithun.dev.ai@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/mithundev"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://mithunai.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /> </a> <a href="https://kaggle.com/mithundev"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a> <a href="https://twitter.com/mithundev_ai"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p>
+💭 Fun Facts About Me
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" /> </p>
+🧠 I dream in Python and think in algorithms
 
----
+📊 I can turn coffee into code and data into insights
 
-## 🌟 Featured Projects
+🎯 My code is like my coffee: strong, well-structured, and energizing
 
-<!-- You can add your actual project cards here -->
-<p align="center">
-  <a href="https://github.com/your-username/ml-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=ml-project-1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/your-username/budgeting-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=budgeting-app&theme=radical&hide_border=true" />
-  </a>
-</p>
+🤖 I believe AI will make the world a better place
 
----
+🎨 I code with the precision of a surgeon and creativity of an artist
 
-## ✍️ Inspirational Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/yourusername">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💭 Fun Facts About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</p>
-
-- 🧠 I dream in Python and think in algorithms
-- 📊 I can turn coffee into code and data into insights
-- 🎯 My code is like my coffee: strong, well-structured, and energizing
-- 🤖 I believe AI will make the world a better place
-- 🎨 I code with the precision of a surgeon and creativity of an artist
-
----
-
-<p align="center">  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-  <br>
-  <i>✨ "Building the future, one algorithm at a time" ✨</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=00C9A7&style=for-the-badge" />
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /> <br> <i>✨ "Building the future, one algorithm at a time" ✨</i> <br><br> <img src="https://komarev.com/ghpvc/?username=mithundev-ai&color=00C9A7&style=for-the-badge" /> </p>
+<!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" /> </p>
