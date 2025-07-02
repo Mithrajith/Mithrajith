@@ -159,7 +159,7 @@ class mithrajithsDev:
   <a href="https://github.com/mithrajith/Facial-recognition-code"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajith&repo=Facial-recognition-code&theme=radical&hide_border=true" /> </a> 
 </p>
----
+
 
 ## ✍️ Inspirational Quote
 
