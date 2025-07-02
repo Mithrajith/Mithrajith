@@ -1,57 +1,43 @@
-<!-- Banner -->
+<!-- Top wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=200&section=header&text=Hey%20👋%20I'm%20Mithun!&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=200&section=header&text=Hey%20there!%20I'm%20Mithun%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
+<!-- Typing text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Web+Engineer;Budget+Planner+%26+Face+Recognizer;Creating+Magic+with+Code!">
-</p>
-
----
-
-### 🌟 Who Am I?
-
-- 🔭 Full-stack developer with a love for AI + Design.
-- 🛠️ Projects with real-world value — from facial recognition to budget automation.
-- 💡 I blend `Python` logic and `React` aesthetics to craft solutions.
-- 🧠 I believe code should be clean, smart, and a little magical.
-
----
-
-### 🚀 My Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,tailwind,js,ts,html,css,mongodb,java,git,linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Full-stack+Engineer;Frontend+Lover+%F0%9F%8E%A8;Python+Wizard+%F0%9F%90%8D;Budgeting+Apps+Builder+%F0%9F%92%B8;Face+Recognition+Enthusiast" />
 </p>
 
 ---
 
-### 🔥 What I'm Building
+### 🎯 About Me
 
-#### 🧠 FaceVault – Student Attendance via Face Detection
-<p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500px" />
-</p>
-
-> Real-time image capture, training, and detection using `OpenCV` and `Flask`.
-
-#### 🥗 Budget Bites – Plan Your Meals, Save Your Wallet
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="500px" />
-</p>
-
-> Uses MongoDB, Flask API + Tailwind CSS for clean UI and fast performance.
-
-#### 💰 NEO Budget Manager – Finance Dashboard
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="500px" />
-</p>
-
-> Inspired by Apple.com + Gmail UI + React with Framer Motion & Recharts.
+- 🔥 I love building interactive, responsive, intelligent apps.
+- 💬 Ask me about `React`, `Tailwind`, `Python`, `AI`, or `MongoDB`.
+- 🧠 My motto: “UI like Apple 🍎, Logic like Tesla ⚡”
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ My Animated Tech Toolbox
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" height="300" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
@@ -59,25 +45,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" />
 </p>
 
 ---
 
-### ⏳ Contribution Timeline
+### 📈 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -85,19 +61,30 @@
 ### ✍️ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 ---
 
-### 🧠 Fun Facts
+### 🔗 Let's Connect
 
-- 🧩 I love solving logic puzzles
-- 🎧 Coding with lo-fi beats is my jam
-- 🧙 I make tech look like wizardry
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+</p>
 
 ---
 
+<p align="center">  
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" />
+  <br>
+  <i>"Crafting interfaces that feel like magic ✨"</i>
+</p>
+
+---
+
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=footer" />
 </p>
