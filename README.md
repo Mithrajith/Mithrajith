@@ -1,6 +1,6 @@
 # <!-- Top wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20there!%20I'm%20Mithun%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20there!%20I'm%20mithrajith%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <!-- Typing text -->
@@ -70,19 +70,19 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mithundev-ai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mithrajithdev-ai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithundev-ai&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithrajithdev-ai&theme=radical&hide_border=true" height="180px"/>
 </p>
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithundev-ai&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithrajithdev-ai&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 <!-- Detailed Profile Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithundev-ai&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithrajithdev-ai&theme=radical" />
 </p>
 
 ---
@@ -91,12 +91,12 @@
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithundev-ai&theme=rogue&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrajithdev-ai&theme=rogue&hide_border=true&area=true" />
 </p>
 
 <!-- Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mithundev-ai/mithundev-ai/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mithrajithdev-ai/mithrajithdev-ai/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -104,7 +104,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithundev-ai&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mithrajithdev-ai&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
 </p>
 
 ---
@@ -112,7 +112,7 @@
 ## 🎯 Current Focus Areas
 
 ```python
-class MithunsDev:
+class mithrajithsDev:
     def __init__(self):
         self.current_focus = [
             "🤖 Machine Learning & AI Development",
@@ -146,11 +146,11 @@ class MithunsDev:
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/mithundev-ai/coconut-oil-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithundev-ai&repo=coconut-oil-detector&theme=radical&hide_border=true" />
+  <a href="https://github.com/mithrajithdev-ai/coconut-oil-detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajithdev-ai&repo=coconut-oil-detector&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/mithundev-ai/budget-bites">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithundev-ai&repo=budget-bites&theme=radical&hide_border=true" />
+  <a href="https://github.com/mithrajithdev-ai/budget-bites">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithrajithdev-ai&repo=budget-bites&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -167,19 +167,19 @@ class MithunsDev:
 ## 📫 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="mailto:mithun.dev.ai@gmail.com">
+  <a href="mailto:mithrajith.dev.ai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mithundev">
+  <a href="https://linkedin.com/in/mithrajithdev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mithunai.netlify.app">
+  <a href="https://mithrajithai.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/mithundev">
+  <a href="https://kaggle.com/mithrajithdev">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mithundev_ai">
+  <a href="https://twitter.com/mithrajithdev_ai">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -205,7 +205,7 @@ class MithunsDev:
   <br>
   <i>✨ "Building the future, one algorithm at a time" ✨</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=mithundev-ai&color=00C9A7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mithrajithdev-ai&color=00C9A7&style=for-the-badge" />
 </p>
 
 ---
