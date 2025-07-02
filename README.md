@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20there!%20I'm%20mithrajith%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
-
+ 
 <!-- Typing text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=500&lines=Full-stack+Engineer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A4%96%F0%9F%A7%A0;Frontend+Wizard+%F0%9F%8E%A8;Python+%26+AI+Developer+%F0%9F%90%8D;Building+Intelligent+Apps+%F0%9F%92%A1;Data+Science+Explorer+%F0%9F%93%8A" />
