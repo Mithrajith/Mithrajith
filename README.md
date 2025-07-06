@@ -4,9 +4,9 @@
 </p>
 
 <!-- Animated Title and Role -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=650&lines=Full-stack+Engineer+🚀;AI+Developer+🤖;ML+Explorer+🧠;Creative+Problem+Solver+🛠️;Crafting+Intelligent+User+Experiences+🎨" />
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=F97316&width=650&lines=Full-stack+Engineer+🚀;AI+Developer+🤖;ML+Explorer+🧠;Creative+Problem+Solver+🛠️;Crafting+Intelligent+User+Experiences+🎨" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -108,8 +108,25 @@ class Mithrajith:
             "Deploy smarter apps 💭",
             "Build for impact 🌍"
         ]
+```
 
-📫 Connect With Me
-<p align="center"> <a href="mailto:mithrajith46@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/mithrajithks046"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://melodious-cuchufli-1275f6.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /> </a> <a href="https://www.kaggle.com/mithun46"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a> <a href="https://x.com/Mithrajith01"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p>
-✨ Motto
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=mithrajith&color=00C9A7&style=for-the-badge" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" /> </p> ```
+---
+
+## 📫 Connect With Me
+<p align="center">
+<a href="mailto:mithrajith46@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://linkedin.com/in/mithrajithks046"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://melodious-cuchufli-1275f6.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /> </a>
+ <a href="https://www.kaggle.com/mithun46"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a>
+ <a href="https://x.com/Mithrajith01"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p>
+
+---
+
+## ✨ Motto
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mithrajith&color=00C9A7&style=for-the-badge" /> </p>
+ <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" /> </p> 
