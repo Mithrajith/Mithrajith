@@ -30,17 +30,19 @@
 ## 🌌 Anime Corner – My Inner Drive
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Demon Slayer Animation" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=FF5733&center=true&width=800&lines=⚔️+Demon+Slayer+Fan;+🍥+Naruto+Inspired+Me+to+Never+Give+Up;+☠️+One+Piece+Taught+Me+to+Dream+Big!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=FF5733&center=true&width=800&lines=⚔️+Demon+Slayer+Fan;+🍥+Naruto+Inspired+Me+to+Never+Give+Up;+☠️+One+Piece+Taught+Me+to+Dream+Big!" alt="Anime Typing Animation" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/JUubH3w8ZBtRS/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/xUOxf48tG1d6af2dLa/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Naruto Running" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="200" alt="Luffy Dreaming" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="Nezuko Transform" />
 </p>
 
 ---
