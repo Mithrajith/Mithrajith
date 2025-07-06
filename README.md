@@ -89,9 +89,19 @@
 
 ## 📈 Contribution Visualization
 
+<!-- Animated ECG Heartbeat Style Divider -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Mb43Z06v7p5zKvu/giphy.gif" width="400" alt="Heartbeat monitor line" />
+</p>
+
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrajith&theme=rogue&hide_border=true&area=true" />
+</p>
+
+<!-- Animated ECG Heartbeat Style Divider (again to wrap nicely) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Mb43Z06v7p5zKvu/giphy.gif" width="400" alt="Heartbeat monitor line" />
 </p>
 
 <!-- Contribution Snake -->
