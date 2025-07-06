@@ -27,6 +27,24 @@
 
 ---
 
+## 🌌 Anime Corner – My Inner Drive
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=FF5733&center=true&width=800&lines=⚔️+Demon+Slayer+Fan;+🍥+Naruto+Inspired+Me+to+Never+Give+Up;+☠️+One+Piece+Taught+Me+to+Dream+Big!" />
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/JUubH3w8ZBtRS/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/xUOxf48tG1d6af2dLa/giphy.gif" width="200" />
+</p>
+
+---
+
 ## ⚙️ Tech Stack
 
 ### 🌐 Frontend
