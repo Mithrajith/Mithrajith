@@ -89,19 +89,9 @@
 
 ## 📈 Contribution Visualization
 
-<!-- Animated ECG Heartbeat Style Divider -->
+<!-- Activity Graph with simulated wave motion -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Mb43Z06v7p5zKvu/giphy.gif" width="400" alt="Heartbeat monitor line" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrajith&theme=rogue&hide_border=true&area=true" />
-</p>
-
-<!-- Animated ECG Heartbeat Style Divider (again to wrap nicely) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Mb43Z06v7p5zKvu/giphy.gif" width="400" alt="Heartbeat monitor line" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrajith&theme=rogue&hide_border=true&area=true&area_color=F97316&line=F97316&point=ffffff" />
 </p>
 
 <!-- Contribution Snake -->
@@ -109,7 +99,6 @@
   <img src="https://raw.githubusercontent.com/mithrajith/mithrajith/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
 ## 🏆 GitHub Achievements
 
