@@ -1,6 +1,4 @@
-Here's an enhanced and streamlined version of your GitHub profile README, removing redundant elements and focusing on clarity and impact:
 
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20there!%20I'm%20Mithrajith%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
