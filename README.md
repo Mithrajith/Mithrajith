@@ -177,7 +177,7 @@ class mithrajithsDev:
   <a href="https://linkedin.com/in/mithrajithks046">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://vercel.com/mithrajiths-projects-bfe7defc/portfolio-version-dev/HBkHrKiFJcZHDwNUBz6qkGx7ZcPe">
+  <a href="https://portfolio-version-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="[https://kaggle.com/mithrajithdev](https://www.kaggle.com/mithun46)">
