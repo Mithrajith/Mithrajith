@@ -70,15 +70,13 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mithrajith&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=mithrajith&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/> -->
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithrajith&theme=radical&hide_border=true" height="180px"/>
 </p>
 
 <!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithrajith&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
+
 
 <!-- Detailed Profile Summary -->
 <p align="center">
@@ -87,60 +85,9 @@
 
 ---
 
-## 📈 Contribution Visualization
-
-<!-- Activity Graph with simulated wave motion -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrajith&theme=rogue&hide_border=true&area=true&area_color=F97316&line=F97316&point=ffffff" />
-</p>
-
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mithrajith/mithrajith/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithrajith&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
-</p>
-
----
-
-## 🎯 Current Focus Areas
-
-```python
-class mithrajithsDev:
-    def __init__(self):
-        self.current_focus = [
-            "🤖 Machine Learning & AI Development",
-            "📊 Data Science & Analytics", 
-            "🎨 Modern Frontend Architectures",
-            "🔬 Computer Vision Projects",
-            "💰 Fintech & Budgeting Solutions"
-        ]
-        
-    def daily_routine(self):
-        return [
-            "☕ Coffee + Code",
-            "📚 Learning ML Algorithms", 
-            "🛠️ Building Cool Projects",
-            "📈 Analyzing Data Patterns",
-            "🎨 Crafting Beautiful UIs"
-        ]
-        
-    def ask_me_about(self):
-        return {
-            'frontend': ['React', 'JavaScript', 'Tailwind CSS'],
-            'backend': ['Python', 'Flask', 'FastAPI'],
-            'ml_ai': ['TensorFlow', 'Scikit-learn', 'OpenCV'],
-            'data': ['Pandas', 'NumPy', 'Data Visualization'],
-            'projects': ['Face Recognition', 'Budgeting Apps', 'ML Models']
-        }
-```
-
----
 
 ## 🌟 Featured Projects
 
