@@ -137,29 +137,6 @@
 
 ---
 
-## 💭 Fun Facts About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</p>
-
-- 🧠 I dream in Python and think in algorithms
-- 📊 I can turn coffee into code and data into insights
-- 🎯 My code is like my coffee: strong, well-structured, and energizing
-- 🤖 I believe AI will make the world a better place
-- 🎨 I code with the precision of a surgeon and creativity of an artist
-
----
-
-<p align="center">  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-  <br>
-  <i>✨ "Building the future, one algorithm at a time" ✨</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=mithrajith&color=00C9A7&style=for-the-badge" />
-</p>
-
----
 
 <!-- Footer -->
 <p align="center">
