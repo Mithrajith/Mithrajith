@@ -240,13 +240,11 @@ developer.learn().build().optimize().repeat();
 </table>
 
 <!-- Language Stats with Enhanced Design -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithrajith&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=FF6B6B" height="300px"/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mithrajith&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF&area_color=FF6B6B&area=true&hide_border=true&theme=tokyo-night" width="100%"/>
 
 <!-- Achievement Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Mithrajith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mithrajith&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
 
 <!-- Detailed Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mithrajith&theme=tokyonight" width="100%"/>
@@ -311,7 +309,15 @@ developer.learn().build().optimize().repeat();
 </div>
 
 <!-- Snake Eating Contributions Animation -->
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Contribution Activity Snake
+
+![Snake animation](https://github.com/Mithrajith/Mithrajith/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <!-- Inspirational Quote with Custom Styling -->
 <div align="center">
