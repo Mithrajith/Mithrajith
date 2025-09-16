@@ -311,15 +311,7 @@ developer.learn().build().optimize().repeat();
 </div>
 
 <!-- Snake Eating Contributions Animation -->
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Contribution Activity Snake
-
-![Snake animation](https://github.com/Mithrajith/Mithrajith/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <!-- Inspirational Quote with Custom Styling -->
 <div align="center">
