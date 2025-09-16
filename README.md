@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ultra Dynamic Header with Matrix Effect -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&customColorList=0,2,2,5,30&height=350&section=header&text=『%20MITHRAJITH%20』&fontSize=80&fontColor=fff&animation=blinking&fontAlignY=40&desc=⚡%20FULL-STACK%20ENGINEER%20×%20ML%20ARCHITECT%20×%20UI/UX%20VISIONARY%20⚡&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=transparent&height=150&section=header&text=『%20MITHRAJITH%20』&fontSize=80&fontColor=fff&animation=blinking&fontAlignY=50&desc=⚡%20FULL-STACK%20ENGINEER%20×%20ML%20ARCHITECT%20×%20UI/UX%20VISIONARY%20⚡&descAlignY=80&descAlign=50&descSize=18" width="100%"/>
 
 <!-- Multi-Line Dynamic Typing with Gradient Colors -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=500&color=FF6B6B,00D9FF,FFD700&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Crafting+Digital+Experiences+That+Inspire;🎨+Where+Code+Meets+Creativity+%26+Innovation;🤖+Building+AI-Powered+Solutions+for+Tomorrow;⚡+Turning+Complex+Problems+Into+Elegant+Solutions;🌟+Passionate+About+Clean+Code+%26+Beautiful+Design" alt="Enhanced Typing SVG" />
