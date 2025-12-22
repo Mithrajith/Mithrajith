@@ -136,44 +136,4 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 🎯 `tail -f /var/log/status.log`
 
-<div align="center">
-
-```log
-[2025-10-29 12:34:56] [INFO] ⚡ Building scalable web applications
-[2025-10-29 12:35:12] [INFO] 🧠 Training ML models for production
-[2025-10-29 12:35:45] [INFO] 🎨 Designing pixel-perfect interfaces
-[2025-10-29 12:36:23] [INFO] 🗄️  Optimizing database performance
-[2025-10-29 12:37:01] [INFO] 🐳 Containerizing applications
-[2025-10-29 12:37:39] [WARN] ☕ Coffee levels: Critically low!
-[2025-10-29 12:38:15] [INFO] 🚀 Status: Always learning, always shipping
-[2025-10-29 12:38:52] [SUCCESS] ✓ Ready for collaboration
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-
-
-## 📊 `METRICS`
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mithrajith&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Mithrajith?label=FOLLOWERS&style=for-the-badge&color=39ff14&labelColor=000000)
-![Stars](https://img.shields.io/github/stars/Mithrajith?label=TOTAL+STARS&style=for-the-badge&color=ff6b00&labelColor=000000)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:39ff14,100:00ff41&section=footer&text=Let's%20Build%20Something%20Epic!&fontSize=32&fontColor=000000&animation=twinkling&fontAlignY=70" width="100%"/>
-
-```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│  [SYSTEM] Ready to collaborate? Let's turn ideas into code!   │
-│  [ROOT@MITHRAJITH] $ sudo make awesome                         │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
-
-**EOF** • Made with 💚 and ⚡ by **Mithrajith**
-
-</div>
