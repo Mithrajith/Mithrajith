@@ -12,14 +12,6 @@
 ```console
 ┌──(mithrajith㉿dev)-[~/profile]
 └─$ cat system_info.sh
-
-╔═══════════════════════════════════════════════════════════════════════════╗
-║ ███╗   ███╗██╗████████╗██╗  ██╗██████╗  █████╗      ██╗██╗████████╗██╗  ██╗║
-║ ████╗ ████║██║╚══██╔══╝██║  ██║██╔══██╗██╔══██╗     ██║██║╚══██╔══╝██║  ██║║
-║ ██╔████╔██║██║   ██║   ███████║██████╔╝███████║     ██║██║   ██║   ███████║║
-║ ██║╚██╔╝██║██║   ██║   ██╔══██║██╔══██╗██╔══██║██   ██║██║   ██║   ██╔══██║║
-║ ██║ ╚═╝ ██║██║   ██║   ██║  ██║██║  ██║██║  ██║╚█████╔╝██║   ██║   ██║  ██║║
-║ ╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║ [✓] STATUS    : ONLINE & READY                                            ║
 ║ [✓] LOCATION  : Coimbatore, Tamil Nadu, India 🇮🇳                         ║
@@ -100,82 +92,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## ⚡ `./load_skills.sh --verbose`
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
 
-### 🎯 FRONTEND
+<div>
 
-```console
-⚛️  React.js
-    ████████████████░░░░ 85%
-    
-📘 TypeScript  
-    ███████████████░░░░░ 80%
-    
-⚡ Next.js
-    ██████████████░░░░░░ 75%
-    
-🎨 Tailwind CSS
-    ████████████████░░░░ 85%
-    
-🎭 Figma
-    ████████████████░░░░ 85%
-```
-
-</td>
-<td width="33%" valign="top">
-
-### 🔥 BACKEND
-
-```console
-🐍 Python
-    ██████████████████░░ 95%
-    
-🚀 FastAPI
-    ███████████████░░░░░ 80%
-    
-🟢 Node.js
-    ██████████████░░░░░░ 75%
-    
-🗄️  MongoDB
-    ███████████████░░░░░ 80%
-    
-🐘 PostgreSQL
-    ██████████████░░░░░░ 75%
-```
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI/ML & TOOLS
-
-```console
-🧠 TensorFlow
-    ██████████████░░░░░░ 75%
-    
-🔬 PyTorch
-    ████████████░░░░░░░░ 65%
-    
-👁️  OpenCV
-    ███████████████░░░░░ 80%
-    
-🐳 Docker
-    ███████████████░░░░░ 80%
-    
-📝 Git
-    ██████████████████░░ 95%
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🛠️ `TECH STACK --all`
+### 🛠️ `TECH STACK `
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
@@ -198,96 +119,7 @@
 
 </div>
 
-## 🚀 `ls -la ~/projects/featured`
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<a href="https://github.com/Mithrajith/AI_music_player">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithrajith&repo=AI_music_player&theme=radical&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=ff6b00&text_color=00ff41&border_radius=10" width="100%"/>
-</a>
-</div>
-
-#### 🎵 **AI MUSIC PLAYER**
-```diff
-+ ML-powered music recommendation
-+ Smart playlist generation
-+ Real-time mood detection
-```
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<a href="https://github.com/Mithrajith/Neo-budget-manager">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithrajith&repo=Neo-budget-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=ff6b00&text_color=00ff41&border_radius=10" width="100%"/>
-</a>
-</div>
-
-#### 💰 **NEO BUDGET MANAGER**
-```diff
-+ Smart financial tracking
-+ Predictive analytics engine
-+ Real-time budget insights
-```
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<a href="https://github.com/Mithrajith/campus-compass">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithrajith&repo=campus-compass&theme=radical&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=ff6b00&text_color=00ff41&border_radius=10" width="100%"/>
-</a>
-</div>
-
-#### 🏫 **CAMPUS COMPASS**
-```diff
-+ Real-time navigation system
-+ Interactive campus maps
-+ Location-based services
-```
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Maps API](https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<a href="https://github.com/Mithrajith/image_captioning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithrajith&repo=image_captioning&theme=radical&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=ff6b00&text_color=00ff41&border_radius=10" width="100%"/>
-</a>
-</div>
-
-#### 🖼️ **IMAGE CAPTIONING AI**
-```diff
-+ AI-powered image descriptions
-+ Deep learning models
-+ Multi-language support
-```
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00BFFF?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
 
 ## 📈 `./analytics.py --detailed`
 
@@ -323,25 +155,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<div align="center">
 
-## 💭 `fortune | cowsay`
-
-```
- _________________________________________
-/ "Code is like humor. When you have to \
-| explain it, it's bad."                |
-|                                       |
-\ - Cory House                          /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 📊 `METRICS`
 
