@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4200&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=MITHRAJITH+—+Software+Engineer;Systems.+AI.+Performance.;Build+→+Optimize+→+Ship" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=38&duration=4200&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=MITHRAJITH+—+ML+Engineer;Systems.+AI.+Performance.;Build+→+Optimize+→+Ship" />
 
 <br/>
 
@@ -90,7 +90,7 @@ Full-stack application integrating ML models into real-time interactive user int
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mithrajith&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Mithrajith&show_icons=true&hide_border=true&theme=transparent" width="48%"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithrajith&hide_border=true&theme=transparent" width="48%"/>
 
@@ -108,27 +108,8 @@ Full-stack application integrating ML models into real-time interactive user int
 
 ---
 
-## CONTRIBUTION SNAKE
 
-<div align="center">
 
-![snake gif](https://github.com/Mithrajith/Mithrajith/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## CONNECT
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin)](https://linkedin.com/in/mithrajithks046)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Mithrajith)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=vercel)](https://portfolio-version-dev.vercel.app)
-[![Kaggle](https://img.shields.io/badge/Kaggle-181717?style=flat-square&logo=kaggle)](https://www.kaggle.com/mithun46)
-[![Twitter](https://img.shields.io/badge/Twitter-181717?style=flat-square&logo=x)](https://x.com/Mithrajith01)
-
-</div>
 
 ---
 
@@ -149,6 +130,17 @@ Goal       : Build fast, reliable, maintainable software
 ```
 
 ---
+## CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin)](https://linkedin.com/in/mithrajithks046)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Mithrajith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=vercel)](https://portfolio-version-dev.vercel.app)
+[![Kaggle](https://img.shields.io/badge/Kaggle-181717?style=flat-square&logo=kaggle)](https://www.kaggle.com/mithun46)
+[![Twitter](https://img.shields.io/badge/Twitter-181717?style=flat-square&logo=x)](https://x.com/Mithrajith01)
+
+</div>
 
 <div align="center">
 
