@@ -7,11 +7,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=38&duration=4200&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=MITHRAJITH+—+ML+Engineer;Systems.+AI.+Performance.;Build+→+Optimize+→+Ship" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&duration=4200&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&height=90&lines=MITHRAJITH+—+ML+Engineer;Systems.+AI.+Performance.;Build+→+Optimize+→+Ship" />
 
 <br/>
 
-**Full-Stack Engineer · Machine Learning Engineer · System Designer**
 
 Building scalable systems, intelligent platforms, and performance-focused software.
 
